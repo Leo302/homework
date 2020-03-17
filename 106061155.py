@@ -101,7 +101,7 @@ else:
 # Part. 4
 #=======================================
 # Print result
-# target_data[1,3,5,7,9]store the mean of presure
+# target_data[1,3,5,7,9]store the mean of pressure
 # target_data[0,2,4,6,8]store the ID of station
 
 print('[', end='')

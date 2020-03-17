@@ -107,7 +107,7 @@ else:
 print('[', end='')
 print('[',end='')
 print('\'',end='')
-print('C0A880',end='')          # print [['C0A880', 1007.65],
+print('C0A880',end='')          # print [['C0A880',pressure],
 print('\'',end='')
 print(',',end='')
 print(target_data[1],end='')
@@ -115,7 +115,7 @@ print('],',end='')
 
 print('[',end='')
 print('\'',end='')
-print('C0F9A0',end='')          # print ['C0F9A0', 1010.65], 
+print('C0F9A0',end='')          # print ['C0F9A0',pressure], 
 print('\'',end='')
 print(',',end='')
 print(target_data[3],end='')
@@ -123,7 +123,7 @@ print('],',end='')
 
 print('[',end='')
 print('\'',end='')
-print('C0G640',end='')          # print ['C0G640', 995.1], 
+print('C0G640',end='')          # print ['C0G640',pressure], 
 print('\'',end='')
 print(',',end='')
 print(target_data[5],end='')
@@ -131,7 +131,7 @@ print('],',end='')
 
 print('[',end='')
 print('\'',end='')
-print('C0R190',end='')          # print ['C0R190', 1017.95], 
+print('C0R190',end='')          # print ['C0R190',pressure], 
 print('\'',end='')
 print(',',end='')
 print(target_data[7],end='')
@@ -139,7 +139,7 @@ print('],',end='')
 
 print('[',end='')
 print('\'',end='')
-print('C0X260',end='')          # print ['C0X260', 'None']]
+print('C0X260',end='')          # print ['C0X260',pressure]]
 print('\'',end='')
 print(',',end='')
 print(target_data[9],end='')
